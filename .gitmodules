@@ -1,0 +1,6 @@
+[submodule "FreeRTOS-Kernel"]
+	path = freertos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
+[submodule "freertos"]
+	path = freertos
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel
